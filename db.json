@@ -1,4 +1,5 @@
 {
+  "data":{
   "name": "John",
   "age": 25,
   "city": "New York",
@@ -18,4 +19,6 @@
   "nationality": "https://hwbet.com/?cid=650874&languageCode=undefined&type=4&currency=BRL&id=12454163",
   "favorite_color": "blue",
   "food_preference": "vegetarian"
+}
+
 }
